@@ -1,0 +1,11 @@
+file_resup:
+  js:
+    js/file_resup.js: {}
+    js/resup.min.js: {}
+  css:
+    base:
+      css/file_resup.css: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupalSettings

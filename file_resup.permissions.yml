@@ -1,0 +1,3 @@
+upload via file_resup:
+  title: 'Upload via <em>File Resumable Upload</em>'
+  restrict access: TRUE

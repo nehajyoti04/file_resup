@@ -1,0 +1,6 @@
+file_resup.upload:
+  path: /file_resup/upload
+  defaults:
+    _controller: '\Drupal\file_resup\Controller\DefaultController::file_resup_upload'
+  requirements:
+    _permission: 'upload via file_resup'
